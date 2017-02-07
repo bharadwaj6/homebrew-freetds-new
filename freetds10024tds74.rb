@@ -1,4 +1,4 @@
-class Freetds < Formula
+class Freetds10024tds74 < Formula
   desc "Libraries to talk to Microsoft SQL Server and Sybase databases"
   homepage "http://www.freetds.org/"
   url "ftp://ftp.freetds.org/pub/freetds/stable/freetds-1.00.24.tar.bz2"
